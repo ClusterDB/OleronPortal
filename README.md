@@ -2,6 +2,8 @@
 
 Weather and surf dashboard for Île d'Oléron.
 
+To be included in [Oléron Villa site](https://oleronvilla.com).
+
 Uses data stored in MongoDB Atlas, and presented using MongoDB Charts.
 
 To try the app...
